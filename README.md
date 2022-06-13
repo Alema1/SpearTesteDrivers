@@ -1,2 +1,2 @@
 # SpearTesteDrivers
-Código de teste dos drivers da S.P.E.A.R.
+Código de teste dos drivers dos motores de passo da S.P.E.A.R.
